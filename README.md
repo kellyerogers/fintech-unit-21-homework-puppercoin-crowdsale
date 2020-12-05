@@ -2,9 +2,13 @@
  Using advanced solidity to create a crowdsale
 
  You can see the solidity contracts I reference below here:
+
  [PupperCoinSaleDeployer.sol](https://ipfs.io/ipfs/QmerT9oCeNWPw1Y8Va7Hf7rCndBmUK3qkBvTj5Kt1sVRcq)
+
  [PupperCoin.sol](https://ipfs.io/ipfs/QmVSVSkq6LByfMkisBbhzitAcTDnMAgYc4EGMEhGtEnMJd)
+
  [Crowdsale.sol](https://ipfs.io/ipfs/QmNPrJ4MWKUAWzKXpUqeyKRUfosaoANZAqXgvepdrCwZAG)
+ 
 
  Feel free to open them in remix and try this as I go along.
 
