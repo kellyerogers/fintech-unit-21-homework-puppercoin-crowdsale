@@ -8,14 +8,14 @@
  [PupperCoin.sol](https://ipfs.io/ipfs/QmVSVSkq6LByfMkisBbhzitAcTDnMAgYc4EGMEhGtEnMJd)
 
  [Crowdsale.sol](https://ipfs.io/ipfs/QmNPrJ4MWKUAWzKXpUqeyKRUfosaoANZAqXgvepdrCwZAG)
- 
+
 
  Feel free to open them in remix and try this as I go along.
 
 
 The PupperCoinSaleDeployer.sol contract deployment
 - It was deployed on the Kovan Test Network
-- - You can do it on your local netowkr with Ethereum Accounts from Granache that have test ETH loaded)
+- - You can do it on your local network with Ethereum Accounts from Granache that have test ETH loaded)
 - Environment: WebInject3
 - This account was used to deploy the PuppercoinSaleDeployer.sol contract: MetaMask Account 1 0x1d92D60Ab708957212849F15cfDAf12C080f7b1D
 - The name is: Pupper Coin Sale Deployer
@@ -28,7 +28,7 @@ The PupperCoinSaleDeployer.sol contract deployment
 
 The PupperCoin.sol contract deployment
 - It was deployed on the Kovan Test Nework
-- - You can do it on your local netowkr with Ethereum Accounts from Granache that have test ETH loaded)
+- - You can do it on your local network with Ethereum Accounts from Granache that have test ETH loaded)
 - Environment: WebInject3
 - This account was used to deploy the PupperCoin.sol contract: MetaMask Account 7 0x7Bc43E5d0b8957c89feEBB8611ffEa58bF27258c
 - The name is Pupper Coin Token
@@ -39,7 +39,7 @@ I couldn't deploy the contract because of insufficient funds to pay fees on Kova
 
 The Crowdsale.sol  contract deployment
 - It was deployed on the Kovan Test Nework
-- - You can do it on your local netowkr with Ethereum Accounts from Granache that have test ETH loaded)
+- - You can do it on your local network with Ethereum Accounts from Granache that have test ETH loaded)
 - Environment: WebInject3
 - This account was used to deploy the Crowdsale.sol contract: MetaMask Account 3 0x8eCa3aDBC0266FD4bA0207Ce906A9F609Bc80c39
 - The rate: 1
